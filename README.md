@@ -1,2 +1,2 @@
-# fundamentos
-repositorio de fund en ing de soft
+# Fundamentos_git_ucb
+## repositorio de fundamentos en ingeniería de software
